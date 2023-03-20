@@ -11,13 +11,13 @@ function App() {
   return (
       <React.StrictMode>
         <BrowserRouter>
-          <nav className="navbar navbar-expand navbar-dark bg-dark">
+          <nav className="navbar navbar-expand navbar-dark bg-success">
             <ul className="navbar-nav">
               <li className="nav-item active">
-                <Link to="/" className="nav-link">Catálogo</Link>
+                <Link to="/" className="nav-link">Catálogo de livros</Link>
               </li>
               <li className="nav-item">
-                <Link to="dados" className="nav-link">Novo</Link>
+                <Link to="dados" className="nav-link">Adicionar Livro</Link>
               </li>
             </ul>
           </nav>

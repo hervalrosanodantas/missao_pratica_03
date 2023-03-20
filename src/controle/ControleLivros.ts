@@ -3,15 +3,15 @@ import Livro from "../modelo/Livro";
 const livros : Array<Livro> = [{
     codigo: 1,
     codEditora: 1,
-    titulo: "Pense em Python",
-    resumo: "Se você quer aprender como programar, usar Python é uma ótima forma de começar. Este guia prático apresenta a linguagem passo a passo, começando com conceitos de programação básicos antes de chegar a funções, recursividade, estruturas de dados e design orientado a objeto. Esta edição e seu código de apoio foram atualizados para o Python 3.",
-    autores: ["BAllen B. Downey "]
+    titulo: "Poeta França, Antologia Poética",
+    resumo: "Essa Antologia Poética reúne todos os trabalhos publicados e outras dezenas de textos inéditos do Poeta França, importante ícone da poesia matuta brasileira, falecido em 2010. Numa edição meticulosa de seu filho Herval Rosano Dantas, que organizou as publicações e seus cordeis em ordem cronológica de produção, a Antologia refaz o caminho de um dos maiores nomes da poesia potiguar, dono de um estilo meticuloso e ao mesmo tempo despojado, em que recria de forma pungente e, muitas vezes, divertida o modo de vida, anseios e memórias do homem sertanejo brasileiro.",
+    autores: ["Produção Independente (eu)"]
 },{
     codigo: 2,
     codEditora: 2,
-    titulo: "Use a Cabeça! Python",
-    resumo: "O que você aprenderá com este livro? Deseja aprender a linguagem Python sem percorrer um longo caminho com manuais? Com o Use a Cabeça! Python, você entenderá rapidamente os fundamentos do Python trabalhando com estruturas de dados e funções predefinidas.",
-    autores: ["Paul Barry"]
+    titulo: "Os miseráveis",
+    resumo: "Um clássico da literatura mundial, esta obra é uma poderosa denúncia a todos os tipos de injustiça humana. Narra a emocionante história de Jean Valjean ― o homem que, por ter roubado um pão, é condenado a dezenove anos de prisão. Os miseráveis é um livro inquietantemente religioso e político, com uma das narrativas mais envolventes já criadas.",
+    autores: ["Amazon books"]
 },{
     codigo: 3,
     codEditora: 3,
